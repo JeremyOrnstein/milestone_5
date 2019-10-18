@@ -1,0 +1,19 @@
+---
+title: "milestone_5"
+author: "Jeremy Ornstein"
+date: "10/18/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+It is not a new trend in human history to use technology to accomplish what once were human tasks. From the printing press to the steam engine, technology has revolutionized society. It's true that when the gas-fired engine replaced horse-drawn power, workers like blacksmiths and stablehands worried that they'd lose work. Those jobs were replaced, but rather than create unemployment, the family car led to roadside motels, automotive factories, and mechanical garages: more industries, more jobs, not fewer. 
+
+But now we face a new possibility of technological unemployment: automation is developing at rapid speeds, and artificial intelligence is learning to complete tasks-- from legal reviews to medical diagonses-- that were thought to be safe from change. 
+
+How will we face the possibility that our jobs might be replaced by robots? How do humans value work, leisure, and volunteering? Will we continue to toil at what jobs we can find, or spend newfound free time leisurely, or volunteer our time to help those less fortunate? 
+
+The data presented shows the public opinions on these questions. The data describes a range of economies-- some far more developed than others-- and a range of cultures-- some more conservative, some more liberal. For each country, the question is asked: how important is leisure time to your life? 
